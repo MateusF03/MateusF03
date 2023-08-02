@@ -1,13 +1,43 @@
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mateusf03)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-ferrari-julio-899a5b219)
-![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<h3>Sobre mim</h3>
 
-- 👋 Hi, I’m @MateusF03. Amateur programmer and avid lover of Java.
-- Currently working at Exata Tech as a developer intern.
+- 🎓 Estudando **Ciência da Computação** na <a href="https://www.uscs.edu.br/">USCS</a>.
+- 💼 Trabalhando como **estagiário** na <a href="https://www.exata.it/">Exata Tech</a>
 
-<!---
-MateusF03/MateusF03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3>Minhas Skills</h3>
+
+**Aplicações e dados**
+
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Vue](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vuedotjs)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![PHP](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+
+**Utilidades**
+
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij-idea)
+![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)
+
+<br/>
+
+<a href="https://github.com/iuricode">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusF03&theme=dracula&show_icons=true" />
+</a>
+
+<h3>Onde me encontrar</h3>
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/mateus-ferrari-julio-899a5b219)](https://br.linkedin.com/in/mateus-ferrari-julio-899a5b219)
+[![GitHub](https://img.shields.io/github/followers/MateusF03?label=follow&style=social)](https://github.com/MateusF03)
