@@ -4,8 +4,7 @@
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-- 👋 Hi, I’m @MateusF03. Looking for jobs at the IT area.
-- I’m interested in Java and C++
+- 👋 Hi, I’m @MateusF03. Amateur programmer and avid lover of Java. Currently working at Exata Tech as a developer intern.
 
 <!---
 MateusF03/MateusF03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
