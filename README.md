@@ -31,12 +31,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-333333?style=flat&logo=intellij-idea&logoColor=000000)
 ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim&logoColor=019733)
 
-<br/>
-
-<a href="https://github.com/MateusF03">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusF03&theme=dracula&show_icons=true" />
-</a>
-
 <h3>Onde me encontrar</h3>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/mateus-ferrari-julio-899a5b219)](https://br.linkedin.com/in/mateus-ferrari-julio-899a5b219)
