@@ -1,7 +1,6 @@
 <h3>Sobre mim</h3>
 
 - 🎓 Estudando **Ciência da Computação** na <a href="https://www.uscs.edu.br/">USCS</a>.
-- 💼 Trabalhando como **estagiário** na <a href="https://www.exata.it/">Exata Tech</a>
 
 <h3>Minhas Skills</h3>
 
