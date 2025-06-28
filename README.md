@@ -1,7 +1,7 @@
 <h3>Sobre mim</h3>
 
-- 🎓 Estudando **Ciência da Computação** na <a href="https://www.uscs.edu.br/">USCS</a>.
-
+- 🎓 Bacharel em **Ciência da Computação** pela <a href="https://www.uscs.edu.br/">USCS</a>.
+  
 <h3>Minhas Skills</h3>
 
 **Aplicações e dados**
